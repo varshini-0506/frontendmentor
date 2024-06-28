@@ -39,8 +39,8 @@ CSS Styling:
 
 ### Links
 
-- Solution URL: [https://github.com/varshini-0506/frontendmentor.git](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/varshini-0506/frontendmentor.git]
+- Live Site URL: [ https://varshini-0506.github.io/frontendmentor/]
 
 ### Built with
 
