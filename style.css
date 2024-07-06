@@ -3,6 +3,19 @@
     padding: 0px;
 }
 
+@media screen and (max-width:1007px){
+    main{
+    margin:0px;
+    background-color:white;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    }
+    img{
+    width: 100%;
+}
+}
+
 body {
     font-family: "Outfit", sans-serif;
     font-weight: 300;
