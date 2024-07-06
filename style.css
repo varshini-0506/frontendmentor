@@ -3,19 +3,6 @@
     padding: 0px;
 }
 
-@media screen and (max-width:1007px){
-    main{
-    margin:0px;
-    background-color:white;
-    display: flex;
-    flex-direction:column;
-    justify-content: center;
-    }
-    img{
-    width: 100%;
-    }
-}
-
 body {
     font-family: "Outfit", sans-serif;
     font-weight: 300;
@@ -124,4 +111,25 @@ div> .two{
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width:700px){
+    main{
+    margin:0px;
+    padding:0px;
+    border-radius:0px;
+    }
+    .intro,.prep,.ingredients,.instructions,.nutrition{
+        padding:40px;
+    }
+
+    .image{
+        padding:0px;
+        margin:0px;
+    }
+
+    img{
+    width: 100%;
+    border-radius: 0px;
+    }
 }
